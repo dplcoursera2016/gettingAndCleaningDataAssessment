@@ -26,7 +26,7 @@ Result was a data frame called "allData" representing solution to part 1 of asse
 
 
 
-Not sure if explanation for parts 2-5 are required in the ReadMe.md
+Parts 2-5 are explained below:
 
 2.Extracted only the measurements on the mean and standard deviation for each measurement. 
 3.Used descriptive activity names to name the activities in the data set
